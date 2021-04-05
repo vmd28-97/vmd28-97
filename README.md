@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋 I am Vaishnavi
+I am working as Data Analyst Intern at Gamaka AI Solutions
+ I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
+Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
 
-<!--
-**vmd28-97/vmd28-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
+- 🤝 Open for job in  analytics,data science and python
+- 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
-Here are some ideas to get you started:
+### My Recent projects 
+[Name of your project](github link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
